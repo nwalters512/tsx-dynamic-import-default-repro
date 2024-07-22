@@ -1,0 +1,1 @@
+# tsx-dynamic-import-default-repro
